@@ -1,0 +1,13 @@
+D:\Projects\LinqComprehensive\Cars\bin\Debug\netcoreapp3.1\fuel.csv
+D:\Projects\LinqComprehensive\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+D:\Projects\LinqComprehensive\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+D:\Projects\LinqComprehensive\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+D:\Projects\LinqComprehensive\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+D:\Projects\LinqComprehensive\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+D:\Projects\LinqComprehensive\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+D:\Projects\LinqComprehensive\Cars\obj\Debug\netcoreapp3.1\Cars.csprojAssemblyReference.cache
+D:\Projects\LinqComprehensive\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+D:\Projects\LinqComprehensive\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+D:\Projects\LinqComprehensive\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+D:\Projects\LinqComprehensive\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+D:\Projects\LinqComprehensive\Cars\bin\Debug\netcoreapp3.1\manufacturers.csv

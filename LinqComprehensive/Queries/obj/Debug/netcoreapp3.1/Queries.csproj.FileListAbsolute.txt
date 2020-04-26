@@ -1,0 +1,11 @@
+D:\Projects\LinqComprehensive\Queries\bin\Debug\netcoreapp3.1\Queries.exe
+D:\Projects\LinqComprehensive\Queries\bin\Debug\netcoreapp3.1\Queries.deps.json
+D:\Projects\LinqComprehensive\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.json
+D:\Projects\LinqComprehensive\Queries\bin\Debug\netcoreapp3.1\Queries.runtimeconfig.dev.json
+D:\Projects\LinqComprehensive\Queries\bin\Debug\netcoreapp3.1\Queries.dll
+D:\Projects\LinqComprehensive\Queries\bin\Debug\netcoreapp3.1\Queries.pdb
+D:\Projects\LinqComprehensive\Queries\obj\Debug\netcoreapp3.1\Queries.csprojAssemblyReference.cache
+D:\Projects\LinqComprehensive\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfoInputs.cache
+D:\Projects\LinqComprehensive\Queries\obj\Debug\netcoreapp3.1\Queries.AssemblyInfo.cs
+D:\Projects\LinqComprehensive\Queries\obj\Debug\netcoreapp3.1\Queries.dll
+D:\Projects\LinqComprehensive\Queries\obj\Debug\netcoreapp3.1\Queries.pdb

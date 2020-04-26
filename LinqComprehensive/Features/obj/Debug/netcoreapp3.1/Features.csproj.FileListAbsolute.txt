@@ -1,0 +1,11 @@
+D:\Projects\LinqComprehensive\Features\bin\Debug\netcoreapp3.1\Features.exe
+D:\Projects\LinqComprehensive\Features\bin\Debug\netcoreapp3.1\Features.deps.json
+D:\Projects\LinqComprehensive\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.json
+D:\Projects\LinqComprehensive\Features\bin\Debug\netcoreapp3.1\Features.runtimeconfig.dev.json
+D:\Projects\LinqComprehensive\Features\bin\Debug\netcoreapp3.1\Features.dll
+D:\Projects\LinqComprehensive\Features\bin\Debug\netcoreapp3.1\Features.pdb
+D:\Projects\LinqComprehensive\Features\obj\Debug\netcoreapp3.1\Features.csprojAssemblyReference.cache
+D:\Projects\LinqComprehensive\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfoInputs.cache
+D:\Projects\LinqComprehensive\Features\obj\Debug\netcoreapp3.1\Features.AssemblyInfo.cs
+D:\Projects\LinqComprehensive\Features\obj\Debug\netcoreapp3.1\Features.dll
+D:\Projects\LinqComprehensive\Features\obj\Debug\netcoreapp3.1\Features.pdb

@@ -1,0 +1,11 @@
+D:\Projects\LinqComprehensive\Introduction\bin\Debug\netcoreapp3.1\Introduction.exe
+D:\Projects\LinqComprehensive\Introduction\bin\Debug\netcoreapp3.1\Introduction.deps.json
+D:\Projects\LinqComprehensive\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.json
+D:\Projects\LinqComprehensive\Introduction\bin\Debug\netcoreapp3.1\Introduction.runtimeconfig.dev.json
+D:\Projects\LinqComprehensive\Introduction\bin\Debug\netcoreapp3.1\Introduction.dll
+D:\Projects\LinqComprehensive\Introduction\bin\Debug\netcoreapp3.1\Introduction.pdb
+D:\Projects\LinqComprehensive\Introduction\obj\Debug\netcoreapp3.1\Introduction.csprojAssemblyReference.cache
+D:\Projects\LinqComprehensive\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfoInputs.cache
+D:\Projects\LinqComprehensive\Introduction\obj\Debug\netcoreapp3.1\Introduction.AssemblyInfo.cs
+D:\Projects\LinqComprehensive\Introduction\obj\Debug\netcoreapp3.1\Introduction.dll
+D:\Projects\LinqComprehensive\Introduction\obj\Debug\netcoreapp3.1\Introduction.pdb
