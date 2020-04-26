@@ -1,0 +1,59 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+</head>
+<body>
+    <h2><time id="timehead">00:00:00</time></h2>
+    <span>
+        <button id="btnstart" style="background-color:forestgreen">Start</button>
+        <button id="btnstop" style="background-color:red">Stop</button>
+    </span>
+    
+</body>
+<script>
+    var time = document.getElementsByTagName('time')[0],
+        start = document.getElementById('btnstart'),
+        stop = document.getElementById('btnstop'),
+        seconds = 0, minutes = 0, hours = 0, t;
+    var startingTime = 0;
+    var endTime = 0,
+        startTime = 0;
+    function add() {
+        seconds++;
+        if (seconds >= 60) {
+            seconds = 0;
+            minutes++;
+            if (minutes >= 60) {
+                minutes = 0;
+                hours++;
+            }
+        }
+
+        time.textContent = (hours ? (hours > 9 ? hours : "0" + hours) : "00") + ":" + (minutes ? (minutes > 9 ? minutes : "0" + minutes) : "00") + ":" + (seconds > 9 ? seconds : "0" + seconds);
+
+        timer();
+    }
+    startingTime = document.getElementById("timehead");
+    startTime = startingTime.textContent;
+    console.log("Start Time :"+" "+startTime);
+    function timer() {
+        
+        t = setTimeout(add, 10);
+    }
+   
+/* Start button */
+    start.onclick = timer;
+   
+    /* Stop button */
+    stop.onclick = function () {
+        endTime = startingTime.textContent;
+        console.log("End Time :"+" "+endTime);
+        console.log("Elapsed Time:"+" "+endTime - startTime);
+        clearTimeout(t);
+
+    }
+</script>
+</html>
